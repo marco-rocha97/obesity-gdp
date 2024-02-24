@@ -4,6 +4,8 @@ Two datasets with different information, one with Obesity and the other with GDP
 In this project, the objective is to clean and understand both data, verifying at the end if they're related  
 Just remember: relation doesn't mean cause and consequence  
 
+![GDP Evolution](datasets/obesity-gdp.png)
+
 Click on the [Jupyter Notebook](https://github.com/marco-rocha97/obesity-gdp/blob/main/obesity-gdp.ipynb) and watch the step-by-step of this project
 
 Dataset Links:
