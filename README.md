@@ -1,6 +1,6 @@
 # Obesity vs GDP 📝
 
-Two datasets with different information, one with Obesity and the other with GDP data  
+Two datasets with different information, one with Obesity and the other with GDP per Person data  
 In this project, the objective is to clean and understand both data, verifying at the end if they're related  
 Just remember: relation doesn't mean cause and consequence  
 
